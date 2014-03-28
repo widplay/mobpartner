@@ -14,7 +14,12 @@
     "request": "~2.34.0",
     "q": "~1.0.1"
   },
+  "keywords": [
+    "mobpartner",
+    "marketing"
+  ],
   "engines": {
     "node": "*"
-  }
+  },
+  "license": "MIT"
 }
