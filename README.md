@@ -1,6 +1,6 @@
 MobPartner
 =========
-[MobPartner] [1] is a Mobile Affiliate Platform used in [WidPlay][2]. The API it's very basic. With this API can get your statistics account. This library use promises.
+[MobPartner] is a Mobile Affiliate Platform used in [WidPlay]. The API it's very basic. With this API can get your statistics account. This library use promises.
 
 Installation
 --------------
