@@ -1,6 +1,6 @@
 {
   "author": "WidPlay",
-  "name": "MobPartner",
+  "name": "mobpartner",
   "description": "MobPartner NodeJS Library",
   "version": "0.0.1",
   "main": "./main.js",
