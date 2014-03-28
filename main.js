@@ -152,13 +152,10 @@ function getStatsOfPeriod(period){
 
 ////////////////////////////////////////////////////////////////////////////////////
 
-function MobPartner(key, login, dateType){
-
-    dateType = (dateType) ? dateType : 'daily';
-
+function MobPartner(key, login){
     this.key = key;
     this.login = login;
-    this.dateType = dateType;
+    this.dateType = 'daily';
 }
 
 MobPartner.prototype.setDateType = function(dateType){
